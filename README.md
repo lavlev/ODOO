@@ -1,0 +1,2 @@
+# ODOO
+odoo project
